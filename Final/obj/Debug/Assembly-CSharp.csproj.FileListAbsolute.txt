@@ -1,0 +1,177 @@
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.dll
+C:\Users\Truong Huu Dat\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.pdb
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\Unity.DataContract.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.xml
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.xml
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Backup\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.xml
+E:\Backup\MAIN_PROJECT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Backup\MAIN_PROJECT\obj\Debug\Assembly-CSharp.dll
+E:\Backup\MAIN_PROJECT\obj\Debug\Assembly-CSharp.pdb
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.DataContract.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.CecilTools.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.xml
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.xml
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.xml
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.xml
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.xml
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.dll
+G:\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.pdb
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\LitJson.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Yin Tianze\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\LitJson.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\LitJson.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\obj\Debug\Assembly-CSharp.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\obj\Debug\Assembly-CSharp.pdb

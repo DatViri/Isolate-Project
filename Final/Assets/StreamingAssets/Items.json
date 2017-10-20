@@ -1,0 +1,39 @@
+[
+    {
+        "id": 0,
+        "name": "Food",
+        "quantity": 0,
+        "stackable": true,
+        "slug": "Food"
+    },
+    {
+        "id": 1,
+        "name": "Water",
+        "quantity": 0,
+        "stackable": true,
+        "slug": "Water"
+    },
+    {
+        "id": 2,
+        "name": "Metal",
+        "quantity": 0,
+        "stackable": true,
+        "slug": "Metal"
+    },
+    {
+        "id": 3,
+        "name": "Stone",
+        "quantity": 0,
+        "stackable": true,
+        "slug": "Stone"
+
+    },
+    {
+        "id": 4,
+        "name": "Wood",
+        "quantity": 0,
+        "stackable": true,
+        "slug": "Wood"
+
+    }
+]

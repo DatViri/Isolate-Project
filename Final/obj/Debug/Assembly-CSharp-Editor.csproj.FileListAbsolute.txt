@@ -1,0 +1,110 @@
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\LitJson.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\nunit.framework.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.EditorTestsRunner.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.PlaymodeTestsRunner.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\nunit.framework.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.EditorTestsRunner.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.PlaymodeTestsRunner.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Analytics.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\HaiAnh\Documents\GitHub\Game_Project_ISOLATE\MAIN_PROJECT\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\LitJson.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.EditorTestsRunner.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.PlaymodeTestsRunner.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.EditorTestsRunner.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.PlaymodeTestsRunner.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.Analytics.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Dat Truong\Documents\Work\MAIN_PROJECT-20170315T024656Z-001\MAIN_PROJECT\obj\Debug\Assembly-CSharp-Editor.pdb

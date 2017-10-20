@@ -1,0 +1,47 @@
+[
+    {
+        "level": 0,
+        "food": 2,
+        "upgrade need": {
+            "wood": 2,
+            "stone": 2,
+            "metal": 2
+        }
+    },
+    {
+        "level": 1,
+        "food": 4,
+        "upgrade need": {
+            "wood": 20,
+            "stone": 10,
+            "metal": 10
+        }
+    },
+    {
+        "level": 2,
+        "food": 6,
+        "upgrade need": {
+            "wood": 40,
+            "stone": 30,
+            "metal": 30
+        }
+    },
+	{
+        "level": 3,
+        "food": 10,
+        "upgrade need": {
+            "wood": 60,
+            "stone": 35,
+            "metal": 35
+        }
+    },
+	{
+        "level": 4,
+        "food": 20,
+        "upgrade need": {
+            "wood": 100,
+            "stone": 40,
+            "metal": 40
+        }
+    }
+]
